@@ -3,4 +3,4 @@ Generated pseudo random data by taking normal distribution based on various para
 
 Achieved 97.97% accuracy by ensembling Logistic Regression, Random Forest, AdaBoost, and Support Vector Machine models, utilizing weighted mean techniques
 
-Documentation is available in the file itself "Landslide_prediction_model.ipynb"
+Documentation is available in the file itself "Landslide_prediction_model_google_colab_documentation"
